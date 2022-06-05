@@ -1,0 +1,35 @@
+#principal
+{
+    border: solid 1 px thistle;
+    background-color: moccasin;
+    padding: 5px;
+    margin: auto;
+    width: 85%;
+}
+fieldset
+{
+    margin-bottom: 10px;
+}
+legend
+{
+    border: solid 1px;
+    padding: 5px;
+    font-weight: bold;
+    background-color: plum;
+    border-radius: 15px;
+}
+body
+{
+    background-image: url(imagenes/flores.jpg);
+}
+img#mifoto
+{
+    float: left;
+    width: 150px;
+    height: 225px;
+    border: solid plum 5px;
+}
+#portada
+{
+    background-color: thistle;
+}
